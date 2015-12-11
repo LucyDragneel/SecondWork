@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondWork</string>
+    <string name="name_student">学生姓名</string>
+    <string name="grade_student">学生年级</string>
+</resources>
